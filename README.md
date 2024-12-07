@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://camkol.github.io/social-links-profile-main/)
+- Live Site URL: [Live](https://camkol.github.io/social-links-profile-main/)
 
 ## My process
 
